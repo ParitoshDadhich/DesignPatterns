@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DESIGN_PATTERNS" />
         <module name="DESIGN_PATTERNS_BY_PRATEEK_NAREENG" />
       </profile>
     </annotationProcessing>
