@@ -1,9 +1,9 @@
 package abstractFactoryDesignPattern;
 
-import abstractFactoryDesignPattern.abstractFactory.UIFactory;
-import abstractFactoryDesignPattern.concreteFactory.MacOSFactory;
-import abstractFactoryDesignPattern.products.abstractProducts.Button;
-import abstractFactoryDesignPattern.products.abstractProducts.ScrollBar;
+import abstractFactoryDesignPattern.factory.abstractFactory.UIFactory;
+import abstractFactoryDesignPattern.factory.concreteFactory.MacOSFactory;
+import abstractFactoryDesignPattern.product.abstractProducts.Button;
+import abstractFactoryDesignPattern.product.abstractProducts.ScrollBar;
 
 public class Client {
     private Button button;

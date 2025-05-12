@@ -1,7 +1,7 @@
-package abstractFactoryDesignPattern.products.concreteProducts;
+package abstractFactoryDesignPattern.product.concreteProducts;
 
 import abstractFactoryDesignPattern.UIComponentsConfig;
-import abstractFactoryDesignPattern.products.abstractProducts.Button;
+import abstractFactoryDesignPattern.product.abstractProducts.Button;
 
 public class MacOSButton implements Button {
     @Override

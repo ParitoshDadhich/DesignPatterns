@@ -1,7 +1,7 @@
-package abstractFactoryDesignPattern.products.concreteProducts;
+package abstractFactoryDesignPattern.product.concreteProducts;
 
 import abstractFactoryDesignPattern.UIComponentsConfig;
-import abstractFactoryDesignPattern.products.abstractProducts.ScrollBar;
+import abstractFactoryDesignPattern.product.abstractProducts.ScrollBar;
 
 public class MacOSScrollBar implements ScrollBar {
     @Override

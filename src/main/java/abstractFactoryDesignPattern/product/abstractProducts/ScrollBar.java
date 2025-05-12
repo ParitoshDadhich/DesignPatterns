@@ -1,4 +1,4 @@
-package abstractFactoryDesignPattern.products.abstractProducts;
+package abstractFactoryDesignPattern.product.abstractProducts;
 
 import abstractFactoryDesignPattern.UIComponentsConfig;
 
